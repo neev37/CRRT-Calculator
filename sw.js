@@ -1,4 +1,4 @@
-const CACHE_NAME = 'crrt-na-v1';
+const CACHE_NAME = 'crrt-na-v3';
 const ASSETS = [
   './',
   './index.html',
